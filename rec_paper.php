@@ -43,7 +43,7 @@
 									<a class="gn-icon gn-icon-download">Переработка</a>
 									<ul class="gn-submenu">
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_plastic.php">Пластик</a></li>
-                                                                            <li><a class="gn-icon gn-icon-download" href="rec_battery.php">Аккамуляторы</a></li>
+                                                                            <li><a class="gn-icon gn-icon-download" href="rec_battery.php">Аккумуляторы</a></li>
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_mercury.php">Энергосберегающие лампы</a></li>
 									    <li><a class="gn-icon gn-icon-download" href="rec_paper.php">Бумага, картон</a></li>
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_other.php">Другие отходы</a></li>
