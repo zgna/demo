@@ -46,7 +46,7 @@
 						</div><!-- /gn-scroller -->
 					</nav>
 				</li>
-                                <li><a>EcoDots - карта пунктов переработки и утилизации</a></li>
+                                <li><a  href="index.php">EcoDots - карта пунктов переработки и утилизации</a></li>
                                 <li><a></a></li>
 			</ul>
 			

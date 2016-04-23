@@ -11,6 +11,7 @@
                 <script src="http://maps.api.2gis.ru/2.0/loader.js"></script>
 	</head>
 	<body>
+            
 		<div class="container">
                     <br><br><br>
                     <div id="map" style="width: 100%; height: 600px;">
@@ -33,25 +34,32 @@
 						<div class="gn-scroller">
 							<ul class="gn-menu">
 								
-									<a class="gn-icon gn-icon-download">Переработка</a>
+									<li><a class="gn-icon gn-icon-download">Переработка</a></li>
+                                                                        
 									<ul class="gn-submenu">
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_plastic.php">Пластик</a></li>
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_battery.php">Аккумуляторы</a></li>
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_mercury.php">Энергосберегающие лампы</a></li>
 									    <li><a class="gn-icon gn-icon-download" href="rec_paper.php">Бумага, картон</a></li>
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_other.php">Другие отходы</a></li>
-                                                                        <a class="gn-icon gn-icon-help" href="help.php">О нас</a>        
+                                                                                
 									</ul>
+                                                                        <li><a class="gn-icon gn-icon-help" href="help.php">О нас</a></li>
 								</li>
 								
 							</ul>
+                                                    
+                                                    
+                                                    
 						</div><!-- /gn-scroller -->
 					</nav>
 				</li>
-                                <li><a>EcoDots - карта пунктов переработки и утилизации</a></li>
+                                <li><a href="index.php">EcoDots - карта пунктов переработки и утилизации</a></li>
                                 <li><a></a></li>
 			</ul>
 			
+                    
+                    
                     </div><!-- /container -->
                     
 		<script src="js/classie.js"></script>
