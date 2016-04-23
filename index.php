@@ -22,8 +22,6 @@
                     center: [55.8, 49.1],
                     zoom: 11
                 });
-
-               // DG.marker([54.98, 82.89]).addTo(map).bindPopup('Вы кликнули по мне!');
             });
         </script> 
                     </div>
@@ -35,17 +33,14 @@
 						<div class="gn-scroller">
 							<ul class="gn-menu">
 								
-									<a class="gn-icon gn-icon-download">Утилизация</a>
+									<a class="gn-icon gn-icon-download">Переработка</a>
 									<ul class="gn-submenu">
-										<li><a class="gn-icon gn-icon-download" href="index2.php">Пластик</a></li>
-										<li><a class="gn-icon gn-icon-photoshop"  href="index3.php">Аккамуляторы</a></li>
-                                                                                <li><a class="gn-icon gn-icon-photoshop"  href="index4.php">Энергосберегающие лампы</a></li>
-									</ul>
-                                                                        <a class="gn-icon gn-icon-download">Переработка</a>
-									<ul class="gn-submenu">
-										<li><a class="gn-icon gn-icon-photoshop" href="index6.php">Бумага, картон</a></li>
-                                                                                <li><a class="gn-icon gn-icon-illustrator"  href="index5.php">Другие отходы</a></li>
-                                                                                
+                                                                            <li><a class="gn-icon gn-icon-download" href="rec_plastic.php">Пластик</a></li>
+                                                                            <li><a class="gn-icon gn-icon-download" href="rec_battery.php">Аккамуляторы</a></li>
+                                                                            <li><a class="gn-icon gn-icon-download" href="rec_mercury.php">Энергосберегающие лампы</a></li>
+									    <li><a class="gn-icon gn-icon-download" href="rec_paper.php">Бумага, картон</a></li>
+                                                                            <li><a class="gn-icon gn-icon-download" href="rec_other.php">Другие отходы</a></li>
+                                                                        <a class="gn-icon gn-icon-help" href="help.php">О нас</a>        
 									</ul>
 								</li>
 								
