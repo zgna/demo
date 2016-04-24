@@ -52,8 +52,12 @@
 						</div><!-- /gn-scroller -->
 					</nav>
 				</li>
-                                <li><a href="index.php">EcoDots - карта пунктов переработки и утилизации</a></li>
-                                <li><a></a></li>
+                                <a  href="index.php"><font face="Ubuntu" size=11 color="Green">
+         EcoDots
+         </font>   <font size=5>карта пунктов переработки и утилизации отходов</font></a>
+                                
+                                <li></li>
+                              
 			</ul>
 			
                     </div><!-- /container -->

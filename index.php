@@ -34,28 +34,25 @@
 						<div class="gn-scroller">
 							<ul class="gn-menu">
 								
-									<li><a class="gn-icon gn-icon-download">Переработка</a></li>
-                                                                        
+									<a class="gn-icon gn-icon-download">Переработка</a>
 									<ul class="gn-submenu">
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_plastic.php">Пластик</a></li>
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_battery.php">Аккумуляторы</a></li>
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_mercury.php">Энергосберегающие лампы</a></li>
 									    <li><a class="gn-icon gn-icon-download" href="rec_paper.php">Бумага, картон</a></li>
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_other.php">Другие отходы</a></li>
-                                                                                
+                                                                        <a class="gn-icon gn-icon-help" href="help.php">О нас</a>        
 									</ul>
-                                                                        <li><a class="gn-icon gn-icon-help" href="help.php">О нас</a></li>
 								</li>
-								
-							</ul>
-                                                    
-                                                    
-                                                    
 						</div><!-- /gn-scroller -->
 					</nav>
 				</li>
-                                <li><a href="index.php">EcoDots - карта пунктов переработки и утилизации</a></li>
-                                <li><a></a></li>
+                                <a  href="index.php"><font face="Ubuntu" size=11 color="Green">
+         EcoDots
+         </font>   <font size=5>карта пунктов переработки и утилизации отходов</font></a>
+                                
+                                <li></li>
+                              
 			</ul>
 			
                     
